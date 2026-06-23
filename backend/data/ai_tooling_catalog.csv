@@ -1,0 +1,51 @@
+title,snippet,category,source
+Price to Earnings Ratio,"The P/E ratio compares a company's share price to its earnings per share and is commonly used for valuation.",fundamental-analysis,finance-dataset
+Market Capitalization,"Market capitalization equals share price multiplied by total outstanding shares.",fundamental-analysis,finance-dataset
+Return on Equity,"ROE measures how efficiently a company generates profit from shareholder equity.",fundamental-analysis,finance-dataset
+Debt to Equity Ratio,"The debt-to-equity ratio evaluates a company's financial leverage and capital structure.",fundamental-analysis,finance-dataset
+Free Cash Flow,"Free cash flow represents cash remaining after operating expenses and capital expenditures.",fundamental-analysis,finance-dataset
+Dividend Yield,"Dividend yield measures annual dividend payments relative to the stock price.",fundamental-analysis,finance-dataset
+Bull Market,"A bull market is characterized by rising stock prices and optimistic investor sentiment.",market-concepts,finance-dataset
+Bear Market,"A bear market refers to prolonged declines in stock prices and negative sentiment.",market-concepts,finance-dataset
+Support and Resistance,"Support and resistance levels help traders identify potential price reversal zones.",technical-analysis,finance-dataset
+Moving Average,"A moving average smooths price data to identify trends and momentum.",technical-analysis,finance-dataset
+RSI Indicator,"The Relative Strength Index measures momentum and helps identify overbought or oversold conditions.",technical-analysis,finance-dataset
+MACD Indicator,"MACD tracks trend strength using moving average convergence and divergence.",technical-analysis,finance-dataset
+Candlestick Patterns,"Candlestick charts visualize price action and market psychology over time.",technical-analysis,finance-dataset
+Volume Analysis,"Trading volume helps confirm price trends and breakout movements.",technical-analysis,finance-dataset
+NIFTY 50 Index,"The NIFTY 50 tracks the performance of 50 major companies listed on NSE.",indices,finance-dataset
+SENSEX Index,"The SENSEX tracks 30 large companies listed on BSE.",indices,finance-dataset
+Bank Nifty,"Bank Nifty measures the performance of major Indian banking stocks.",indices,finance-dataset
+Large Cap Stocks,"Large-cap companies typically have stable earnings and significant market capitalization.",equity-investing,finance-dataset
+Mid Cap Stocks,"Mid-cap companies often provide a balance between growth and stability.",equity-investing,finance-dataset
+Small Cap Stocks,"Small-cap stocks generally offer higher growth potential but greater risk.",equity-investing,finance-dataset
+Mutual Funds,"Mutual funds pool money from investors and invest in diversified portfolios.",investment-products,finance-dataset
+Index Funds,"Index funds aim to replicate the performance of a benchmark index.",investment-products,finance-dataset
+Exchange Traded Funds,"ETFs trade like stocks while tracking an index, commodity, or basket of assets.",investment-products,finance-dataset
+Systematic Investment Plan,"A SIP allows investors to invest fixed amounts regularly into mutual funds.",investment-products,finance-dataset
+Asset Allocation,"Asset allocation distributes investments across asset classes to manage risk.",portfolio-management,finance-dataset
+Portfolio Diversification,"Diversification reduces risk by spreading investments across different assets.",portfolio-management,finance-dataset
+Risk Reward Ratio,"The risk-reward ratio compares potential profit against potential loss.",risk-management,finance-dataset
+Stop Loss Order,"A stop-loss order automatically exits a position when a predefined price is reached.",risk-management,finance-dataset
+Options Trading,"Options provide the right but not the obligation to buy or sell an asset at a specified price.",derivatives,finance-dataset
+Futures Contracts,"Futures contracts obligate buyers and sellers to transact at a future date and price.",derivatives,finance-dataset
+Call Option,"A call option gives the holder the right to buy an underlying asset.",derivatives,finance-dataset
+Put Option,"A put option gives the holder the right to sell an underlying asset.",derivatives,finance-dataset
+Open Interest,"Open interest measures the number of outstanding derivative contracts.",derivatives,finance-dataset
+India VIX,"India VIX estimates expected market volatility over the next 30 days.",market-indicators,finance-dataset
+Inflation Impact,"Higher inflation can reduce purchasing power and affect equity valuations.",macroeconomics,finance-dataset
+Interest Rates,"Interest rate changes influence borrowing costs and market liquidity.",macroeconomics,finance-dataset
+GDP Growth,"GDP growth reflects the expansion of economic activity in a country.",macroeconomics,finance-dataset
+Foreign Institutional Investors,"FII flows can significantly impact Indian equity markets.",market-participants,finance-dataset
+Domestic Institutional Investors,"DII activity often offsets foreign investment flows.",market-participants,finance-dataset
+Retail Investors,"Retail investors participate in markets using personal capital.",market-participants,finance-dataset
+Zerodha Kite Platform,"Kite is Zerodha's trading platform for stocks, derivatives, and mutual funds.",broker-platforms,finance-dataset
+Sharekhan Trading Platform,"Sharekhan provides brokerage and investment services for Indian investors.",broker-platforms,finance-dataset
+Earnings Per Share,"EPS measures a company's profitability on a per-share basis.",fundamental-analysis,finance-dataset
+Book Value Per Share,"Book value per share represents net asset value attributable to shareholders.",fundamental-analysis,finance-dataset
+Intrinsic Value,"Intrinsic value estimates the true worth of a company based on fundamentals.",valuation,finance-dataset
+Discounted Cash Flow,"DCF valuation estimates business value using future cash flows discounted to present value.",valuation,finance-dataset
+Economic Moat,"An economic moat is a sustainable competitive advantage protecting long-term profitability.",valuation,finance-dataset
+Sector Rotation,"Investors often shift capital between sectors based on economic cycles.",market-strategy,finance-dataset
+Momentum Investing,"Momentum investing focuses on stocks with strong recent performance.",market-strategy,finance-dataset
+Value Investing,"Value investing seeks undervalued companies trading below intrinsic value.",market-strategy,finance-dataset
